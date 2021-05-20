@@ -1,0 +1,141 @@
+/* Header */
+.app-bar {
+  background-color: black;
+  height: 4rem;
+}
+
+.image {
+  height: 2.95rem;
+  margin-top: 1rem;
+}
+
+.image:hover {
+  height: 3rem;
+}
+
+.InputBase {
+  background-color: white;
+  margin: auto 1.5rem;
+  width: 50%;
+  padding-left: 0.5rem;
+}
+
+#Button {
+  background-color: #ffb037;
+  margin-left: -2rem;
+  width: 1%;
+  border-radius: 0;
+  cursor: not-allowed;
+}
+
+.para {
+  color: white;
+  margin: 1rem;
+  text-decoration: none;
+}
+
+.hello {
+  font-size: 0.8rem;
+}
+
+.button {
+  font-size: 0.95rem;
+}
+
+.sign {
+  background: transparent;
+  color: white;
+  border: none;
+}
+
+.sign:hover {
+  font-size: 1rem;
+}
+
+.Returns {
+  color: white;
+  margin: 1rem;
+  text-decoration: none;
+}
+
+.returns {
+  font-size: 0.8rem;
+}
+
+.orders {
+  font-size: 0.95rem;
+}
+
+.Prime {
+  color: white;
+  margin: 1rem;
+  text-decoration: none;
+  margin-right: 1.7rem;
+}
+
+.your {
+  font-size: 0.8rem;
+}
+
+.prime {
+  font-size: 0.95rem;
+}
+
+.icon {
+  color: white;
+}
+
+#basketIcon {
+  font-size: 1.9rem;
+}
+
+#basketIcon:hover {
+  font-size: 2.05rem;
+  color: white;
+}
+
+.number {
+  margin: auto auto auto 0.5rem;
+  font-size: 1.3rem;
+}
+
+/* Header */
+/* ----------------------------- */
+/* Product */
+
+#card-text {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+#price {
+  font-weight: bold;
+  letter-spacing: -1px;
+}
+
+#rating {
+  margin-top: -0.5rem;
+}
+
+#product-image {
+  height: 20rem;
+  width: 75%;
+  margin: 1rem auto;
+}
+
+#card-body {
+  background-color: #fea82f;
+  font-size: 0.9rem;
+  width: 60%;
+  margin: auto auto auto 2.4rem;
+  border-radius: 0.3rem;
+}
+
+/* Product */
+/* --------------------------------- */
+.flex-box {
+  width: 350px;
+  height: 550px;
+  margin: 20px;
+  padding: 25px;
+}

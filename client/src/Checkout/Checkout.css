@@ -1,0 +1,72 @@
+.card {
+  margin: 20px;
+  padding: 25px;
+}
+
+.product > section {
+  margin: -4rem auto auto 1.5rem;
+}
+
+.product h3 {
+  font-weight: bolder;
+  margin: -0.5rem auto;
+}
+
+.product h5 {
+  font-weight: bolder;
+  margin-top: -0.1rem;
+}
+
+.product hr {
+  width: 72.5%;
+}
+
+.mb-3 {
+  max-width: 70%;
+  height: 13.5rem;
+}
+
+.col-md-4 > img {
+  width: 50%;
+  height: 10rem;
+  margin: auto 2rem -2rem;
+}
+
+.card-body {
+  margin-left: -3rem;
+}
+
+.card-title {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.card-text {
+  font-weight: bold;
+}
+
+.card-body > button {
+  background-color: #fea82f;
+  font-size: 0.9rem;
+  width: 25%;
+}
+
+.container {
+  background-color: #e1f1dd;
+  width: 24%;
+  padding: 20px;
+  align-items: center;
+  margin-top: -5rem;
+  margin-right: 1.5rem;
+}
+
+.total > img {
+  margin: 5.5rem 1rem auto 1.3rem;
+  height: 5rem;
+  width: 71%;
+}
+
+.container > button {
+  background-color: #ffb037;
+  width: 100%;
+}
